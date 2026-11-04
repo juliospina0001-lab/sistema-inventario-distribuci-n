@@ -33,3 +33,6 @@ Este proyecto corresponde a una propuesta académica. No representa un sistema o
 ## Estado del proyecto
 
 En etapa inicial de análisis y documentación de requisitos.
+
+---
+Proyecto académico de análisis y desarrollo de software.
