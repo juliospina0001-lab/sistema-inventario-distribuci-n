@@ -36,3 +36,7 @@ En etapa inicial de análisis y documentación de requisitos.
 
 ---
 Proyecto académico de análisis y desarrollo de software.
+
+## Actualización de documentación
+
+Esta sección fue agregada desde la rama `actualizacion-documentacion` como parte de la práctica académica de control de versiones con Git y GitHub.
